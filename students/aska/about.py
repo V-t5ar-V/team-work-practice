@@ -1,3 +1,3 @@
-input("print")
+print("name: Aska")
 print("Role: Student")
 print("Learning GitHub team work")
